@@ -15,9 +15,9 @@ while True: # Added while loop to be able to let user input without having to ru
     if player.lower() in hand: # User input works regardless of upper or lower case
         computer = random.choice(hand)
 
-        if player.lower() == computer: # Universal tie condition message
+        if player.lower() == computer: # Universal tie condition message to simplify code
             print(f"You played {player} and computer played {computer}. It's a tie!\nPlay again or type quit to exit game.")
-        elif player.lower() == 'rock':
+        elif player.lower() == 'rock': # Will refactor these win conditions to simplify code and allow for more hand options
             if computer == 'scissors':
                 player_score = win(player_score, "You")
             else:

@@ -12,7 +12,7 @@ I would also like to add "best out of 3" and "best out of 5" gamemode options th
 
 Finally, I would like to add a small easter egg that takes advantage of the random library to give you a hint as to how to trigger the easter egg.
 
-Thank you for playing my first Python program and take care!
+Thanks for playing my first Python program! Take care!
 
 Andrei Tihan
 
