@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86a4867b-d8d2-4e2a-9f5c-00644f623e2c" name="Changes" comment="Basic structure complete">
+    <list default="true" id="86a4867b-d8d2-4e2a-9f5c-00644f623e2c" name="Changes" comment="Rewrote basic structure for looping user input">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/development.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/development.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753655919252</updated>
-      <workItem from="1753655920281" duration="3747000" />
+      <workItem from="1753655920281" duration="4845000" />
     </task>
     <task id="LOCAL-00001" summary="Initialization">
       <option name="closed" value="true" />
@@ -111,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753658703123</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Rewrote basic structure for looping user input">
+      <option name="closed" value="true" />
+      <created>1753660191087</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1753660191087</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,9 +127,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initialization" />
     <MESSAGE value="Basic structure complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic structure complete" />
+    <MESSAGE value="Rewrote basic structure for looping user input" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rewrote basic structure for looping user input" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Rock__Paper__Scissors$rock_paper_scissors.coverage" NAME="rock_paper_scissors Coverage Results" MODIFIED="1753658637030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Rock__Paper__Scissors$rock_paper_scissors.coverage" NAME="rock_paper_scissors Coverage Results" MODIFIED="1753660083387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
