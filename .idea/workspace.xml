@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86a4867b-d8d2-4e2a-9f5c-00644f623e2c" name="Changes" comment="Added working loops, score needs fixing.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="86a4867b-d8d2-4e2a-9f5c-00644f623e2c" name="Changes" comment="Full functionality, minor style and readability changes left.">
       <change beforePath="$PROJECT_DIR$/development.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/development.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rock_paper_scissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/rock_paper_scissors.py" afterDir="false" />
     </list>
@@ -83,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753655919252</updated>
-      <workItem from="1753655920281" duration="9580000" />
+      <workItem from="1753655920281" duration="10580000" />
     </task>
     <task id="LOCAL-00001" summary="Initialization">
       <option name="closed" value="true" />
@@ -149,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753666219916</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Full functionality, minor style and readability changes left.">
+      <option name="closed" value="true" />
+      <created>1753667657013</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1753667657013</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,9 +168,10 @@
     <MESSAGE value="Rewrote basic structure for looping user input" />
     <MESSAGE value="Added main functionality loops." />
     <MESSAGE value="Added working loops, score needs fixing." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added working loops, score needs fixing." />
+    <MESSAGE value="Full functionality, minor style and readability changes left." />
+    <option name="LAST_COMMIT_MESSAGE" value="Full functionality, minor style and readability changes left." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Rock__Paper__Scissors$rock_paper_scissors.coverage" NAME="rock_paper_scissors Coverage Results" MODIFIED="1753667506950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Rock__Paper__Scissors$rock_paper_scissors.coverage" NAME="rock_paper_scissors Coverage Results" MODIFIED="1753668476769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
